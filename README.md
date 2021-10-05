@@ -1,2 +1,4 @@
 # expo.md
-<head>Opportunité du numérique dans le secteur de la défense</head>
+<head><H1>Opportunité du numérique dans le secteur de la défense<h1></head>
+<body>
+  <h2>I.Rappel historique et généralités</h2>
